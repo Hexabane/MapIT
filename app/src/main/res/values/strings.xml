@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MapIT</string>
+    <string name="API_KEY">AIzaSyA0YV9l3S8arm_BTqB_kO9AhxQt331XbY4</string>
+    <string name="login_string">Already have an account? <b>Login here</b></string>
+    <string name="open_navigation_drawer">Open Drawer</string>
+    <string name="close_navigation_drawer">Open Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
